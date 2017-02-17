@@ -1,7 +1,7 @@
 ## Généralités
 
-Ce projet décrit la conception et la misen en oeuvre d'un fichier excel de gestion domestique sur tablette tactile.
-Les fonctionnalités du fichier sont diverses et couvrent les relations sociales, les tâches domestiques, le courrier, le stationnement, les enfants, etc.
+Ce projet décrit la conception et la mise en oeuvre d'un outil interactif de gestion domestique sur tablette tactile.
+Les fonctionnalités de l'outil sont diverses et couvrent les relations sociales, les tâches domestiques, le courrier, le stationnement, les enfants, etc.
 
 
 ## Installation
@@ -13,9 +13,9 @@ La mise en oeuvre de ce prototype a été proposée sur le matériel suivant:
 
 ## Exécution
 
-Le fichier Excel est utilisable directement. L'activation des macros est obligatoire. La version publiée ici est sous licence et se bloquera après trois ouvertures/enregistrements. Le code de déblocage peut être fourni sur demande. 
+L'outil est sous la forme d'un gros fichier Excel avec macros et utilisable directement. L'activation des macros est obligatoire. La version publiée ici est sous licence et se bloquera après trois ouvertures/enregistrements. Le code de déblocage peut être fourni sur demande. 
 
-L'utilisation ne requiert pas de clavier ou de souris, tout est faisable en tactile ou avec l'affichage du clavier virtuel si besoin.
+L'utilisation ne requiert ni clavier ni souris, tout est faisable en tactile ou avec l'affichage du clavier virtuel si besoin.
 
 Un onglet d'administration permet de gérer certains paramètres.
 
